@@ -1,5 +1,8 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
+<sup>Discord username: yeeeeeeeeehor </sup>
+
+
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
 A standard game of Tic-Tac-Toe in Leo.
