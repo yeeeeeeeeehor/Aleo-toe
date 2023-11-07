@@ -2,6 +2,7 @@
 
 <sup>Discord username: yeeeeeeeeehor </sup>
 
+Discord: `yeeeeeeeeehor`
 
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
